@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccuWeatherWpfApp", "AccuWeatherWpfApp\AccuWeatherWpfApp.csproj", "{27C5AAC7-24C6-4C02-ACBE-51C6925B3ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C5AAC7-24C6-4C02-ACBE-51C6925B3ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C5AAC7-24C6-4C02-ACBE-51C6925B3ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C5AAC7-24C6-4C02-ACBE-51C6925B3ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C5AAC7-24C6-4C02-ACBE-51C6925B3ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40920FA2-7824-458C-BF4E-866ECB5943B1}
+	EndGlobalSection
+EndGlobal
